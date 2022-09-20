@@ -1,4 +1,4 @@
 
 from sys import exit
-print("Hello World! 4 years")
+print("Hello World! Mandy Hsu has been at UofT for 4 years!")
 exit()
