@@ -23,3 +23,7 @@ Activity5
 
 <img width="548" alt="Screen Shot 2022-09-20 at 3 04 51 PM" src="https://user-images.githubusercontent.com/103273559/191344187-0ced9429-bb16-4335-9917-0ed17a94a661.png">
 <img width="541" alt="Screen Shot 2022-09-20 at 3 09 24 PM" src="https://user-images.githubusercontent.com/103273559/191344199-2e959530-a721-4f1d-ab06-4ece6ae5f2de.png">
+
+Activity6
+
+https://github.com/hsupeiyu12/ECE444-F2022-EP
