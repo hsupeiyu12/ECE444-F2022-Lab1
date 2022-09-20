@@ -27,3 +27,10 @@ Activity5
 Activity6
 
 https://github.com/hsupeiyu12/ECE444-F2022-EP
+
+
+Activity 7
+
+<img width="706" alt="image" src="https://user-images.githubusercontent.com/103273559/191377333-d81701f5-0223-4ac1-bc8f-463652905321.png">
+
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/103273559/191377377-eb073c5c-1f96-4cf9-8470-005acb9c6157.png">
